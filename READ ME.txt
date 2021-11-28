@@ -1,0 +1,8 @@
+RandNumber beta 1.0 copyright 2021 Raiku
+
+========================================================RULES===========================================================================
+1.Enter any number between 0 and 100
+2.strike ENTER and try to guess a random number!
+
+========================================================Compatibility===================================================================
+This application is compatible with Windows(r) 95 and later.
